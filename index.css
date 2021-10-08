@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color:#A2CDCD;
+}
+h1 {
+  font-family:  serif;
+}
+h2 {
+  font-family:  serif;
+}
+.top {
+  background-color: #A2CDCD;
+}
+.cloud1 {
+  padding-left: 1000px;
+}
+.cloud2 {
+  padding-right: 1000px;
+}
+.photo{
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+}
+.skills {
+  font-family: cursive;
+  font-weight: bold;
+}
+.horizontal {
+  width: 50%;
+  background-color: white;
+}
